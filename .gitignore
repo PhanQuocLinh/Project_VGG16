@@ -1,0 +1,31 @@
+Data/*.jpg
+# Data/4_data_out/*.jpg
+# Data/4_data_out/
+# Data/3_data_in/
+# Data/5_image/
+Data/temp/
+
+
+
+
+# Dataset/
+Dataset/Flower/
+
+
+
+# Script_python/python_get_weight_layer.py
+Script_python/python_testcode.py
+# Script_python/python_build_model.py
+
+
+
+Script_tcl/results/
+Script_tcl/work/
+Script_tcl/transcript
+Script_tcl/wave_b4_to_5_to_sig.do
+
+Script_tcl/wlftPwF29F
+Script_tcl/vsim.wlf
+
+
+

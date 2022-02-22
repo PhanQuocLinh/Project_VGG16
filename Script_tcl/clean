@@ -1,0 +1,2 @@
+rm -rf work
+# rm ../data/tb_results/output.txt
